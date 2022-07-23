@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <id>1231</id>
+    <nome>Jean Leles</nome>
+    <cargo>Web Developer</cargo>
+    <idade>35</idade>
+    <cidade>Goiânia</cidade>
+    <estado>GO</estado>
+    <linkedin>https://www.linkedin.com/in/jeanleles/</linkedin>
+    <github>https://github.com/jeanleles</github>
+    <twitter>https://twitter.com/jeanleles</twitter>
+    <foto>https://robohash.org/VJ9.png</foto>
+  </usuario>
+
+  <usuario>
+    <id>1232</id>
+    <nome>Maria Clara</nome>
+    <cargo>Web Developer</cargo>
+    <idade>23</idade>
+    <cidade>São Paulo</cidade>
+    <estado>SP</estado>
+    <linkedin>https://www.linkedin.com/in/jeanleles/</linkedin>
+    <github>https://github.com/jeanleles</github>
+    <twitter>https://twitter.com/jeanleles</twitter>
+    <foto>https://robohash.org/OTB.png</foto>
+  </usuario>
+
+  <usuario>
+    <id>1233</id>
+    <nome>João Carlos</nome>
+    <cargo>Web Designer</cargo>
+    <idade>32</idade>
+    <cidade>Fortaleza</cidade>
+    <estado>CE</estado>
+    <linkedin>https://www.linkedin.com/in/jeanleles/</linkedin>
+    <github>https://github.com/jeanleles</github>
+    <twitter>https://twitter.com/jeanleles</twitter>
+    <foto>https://robohash.org/9EO.png</foto>
+  </usuario>
+
+  <usuario>
+    <id>1234</id>
+    <nome>Melina Silva</nome>
+    <cargo>Back-End Developer</cargo>
+    <idade>35</idade>
+    <cidade>Brasília</cidade>
+    <estado>DF</estado>
+    <linkedin>https://www.linkedin.com/in/jeanleles/</linkedin>
+    <github>https://github.com/jeanleles</github>
+    <twitter>https://twitter.com/jeanleles</twitter>
+    <foto>https://robohash.org/PFI.png</foto>
+  </usuario>
+
+  <usuario>
+    <id>1235</id>
+    <nome>Gustava Ribeiro</nome>
+    <cargo>Analista de Sistemas</cargo>
+    <idade>27</idade>
+    <cidade>Goiânia</cidade>
+    <estado>GO</estado>
+    <linkedin>https://www.linkedin.com/in/jeanleles/</linkedin>
+    <github>https://github.com/jeanleles</github>
+    <twitter>https://twitter.com/jeanleles</twitter>
+    <foto>https://robohash.org/R43.png</foto>
+  </usuario>
+
+  <usuario>
+    <id>1236</id>
+    <nome>Catarine da Silva</nome>
+    <cargo>Analista de Marketing</cargo>
+    <idade>30</idade>
+    <cidade>Salvador</cidade>
+    <estado>BA</estado>
+    <linkedin>https://www.linkedin.com/in/jeanleles/</linkedin>
+    <github>https://github.com/jeanleles</github>
+    <twitter>https://twitter.com/jeanleles</twitter>
+    <foto>https://robohash.org/UO4.png</foto>
+  </usuario>
+</usuarios>
